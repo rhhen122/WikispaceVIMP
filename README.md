@@ -3,19 +3,11 @@
 ![Static Badge](https://img.shields.io/badge/Open_Source-red)
 ![Static Badge](https://img.shields.io/badge/status%20-maintained-green)
 ## Install!
-### WikispaceVIMP will appear in your computers "Downloads" Folder
-MacOS
+### WikispaceVIMP will appear in whatever folder you are currently inside
 ```
-cd ~ && cd documents && git clone https://github.com/rhhen122/WikispaceVIMP.git && cd ~
+curl -O https://github.com/rhhen122/WikispaceVIMP/blob/main/WikispaceVIMP.tar.gz\
 ```
-
-
-Windows/Linux
-```
-cd ~; cd documents; git clone https://github.com/rhhen122/WikispaceVIMP.git; cd ~
-```
-
-gh (if configured)
+gh (no .tar.gz file needed)
 ```
 gh repo clone rhhen122/WikispaceVIMP
 ```
