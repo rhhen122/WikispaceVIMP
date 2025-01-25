@@ -1,5 +1,11 @@
 # Wikispace
 
+## Install!
+
+```
+cd ~ && cd documents && mkdir WikispaceV1 && cd WikispaceV1 && git clone https://github.com/rhhen122/Wikispace.git && cd ~
+```
+
 This Is WikiEdit!         And This is the README Explaining how to use it!
 
 ESTMATED TIME OF READING: 3:30 MIN
