@@ -7,6 +7,9 @@ MacOS
 ```
 cd ~ && cd documents && git clone https://github.com/rhhen122/Wikispace.git && cd ~
 ```
+\
+
+Windows
 ```
 cd ~; cd documents; git clone https://github.com/rhhen122/Wikispace.git; cd ~
 ```
