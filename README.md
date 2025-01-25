@@ -14,9 +14,6 @@ Editor Notes: I spent WAYY to long writing this.
 
 Skills Required:      Basic .HTML Knowledge     Basic .CSS Knowledge      No .JS Knowledge
 
- ______ ______ ______ ______ ______ ______ ______ 
-|______|______|______|______|______|______|______|
-
 WikiSpace Is Entirely open-source!
 
 WikiSpace Comes with its own .CSS file! Change this and add to it how you want!
@@ -48,9 +45,6 @@ Starting out with <bigtext> <-- This does exactly what you think it does. It mak
 <cur> whatever is writen after this tag will turn into 𝓯𝓪𝓷𝓬𝔂 text!
 
 Now that you have a-hold of the basics (I hope!) Its time to start editing your WikiSpace!
-
- ______ ______ ______ ______ ______ ______ ______ 
-|______|______|______|______|______|______|______|
 
 (Tip: If you dont like the deafult Wikispace-DarkMode .CSS file then there is actually a Wikispace-LigthMode .CSS file!)
 (Tip: I reccomend nvim to edit the files for you Wikispace!)
