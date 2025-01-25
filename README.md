@@ -29,7 +29,7 @@ Then, Download VS Code [text](https://code.visualstudio.com
 
 The Begineer Level tags (For user unfimiliar with .HTML and .CSS) are tags like <h1> <h2> <h3> and, <p>
 
-You may notice tags that look like this --> <!-- This is a COMMENT tag! Its a place to put text that you dont want showing up on your WikiSpace! -->
+You may notice tags that look like this --> &lt;!-- This is a COMMENT tag! Its a place to put text that you dont want showing up on your WikiSpace! -->
 
 If you look on Line 10 of "index.html" you may notice a tag called <body> <-- this tag holds the entire site inside of its perameters!
 If you look toward the bottom of the page you may see a </body> tag! This is where the perameters of what users can see on your site end!
