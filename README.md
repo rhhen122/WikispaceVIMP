@@ -3,9 +3,12 @@
 ![Static Badge](https://img.shields.io/badge/Open_Source-red)
 ![Static Badge](https://img.shields.io/badge/status%20-maintained-green)
 ## Install!
-MacOS (Comfirmed working) / Windows (Uncomfirmed)
+MacOS
 ```
 cd ~ && cd documents && git clone https://github.com/rhhen122/Wikispace.git && cd ~
+```
+```
+cd ~; cd documents; git clone https://github.com/rhhen122/Wikispace.git; cd ~
 ```
 
 This Is WikiEdit!         And This is the README Explaining how to use it!
