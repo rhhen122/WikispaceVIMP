@@ -1,9 +1,9 @@
 # Wikispace
 ![Static Badge](https://img.shields.io/badge/Wikispace%20-Based-green)
 ![Static Badge](https://img.shields.io/badge/Open_Source-red)
-
+![Static Badge](https://img.shields.io/badge/status%20-maintained-green)
 ## Install!
-
+MacOS (Comfirmed working) / Windows (Uncomfirmed)
 ```
 cd ~ && cd documents && git clone https://github.com/rhhen122/Wikispace.git && cd ~
 ```
