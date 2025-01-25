@@ -1,4 +1,6 @@
 # Wikispace
+![Static Badge](https://img.shields.io/badge/Wikispace%20-Based-green)
+![Static Badge](https://img.shields.io/badge/Open_Source-red)
 
 ## Install!
 
