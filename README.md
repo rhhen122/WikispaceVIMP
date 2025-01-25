@@ -49,7 +49,7 @@ Now that you have a-hold of the basics (I hope!) Its time to start editing your 
 (Tip: If you dont like the deafult Wikispace-DarkMode .CSS file then there is actually a Wikispace-LigthMode .CSS file!)
 (Tip: I reccomend nvim to edit the files for you Wikispace!)
 ---
-check me out on instagram! [insert insta link here you lazy hermit crab]
+check me out on instagram!
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Thanks For reading! (:
 - citrusdev
