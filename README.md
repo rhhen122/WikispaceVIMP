@@ -3,6 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/Open_Source-red)
 ![Static Badge](https://img.shields.io/badge/status%20-maintained-green)
 ## Install!
+### WikispaceVIMP will appear in your computers "Downloads" Folder
 MacOS
 ```
 cd ~ && cd documents && git clone https://github.com/rhhen122/WikispaceVIMP.git && cd ~
