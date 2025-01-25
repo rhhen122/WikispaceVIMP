@@ -4,6 +4,10 @@
 ![Static Badge](https://img.shields.io/badge/status%20-maintained-green)
 ## Install!
 ### WikispaceVIMP will appear in whatever folder you are currently inside
+wget
+```
+wget 
+```
 git
 ```
 git clone https://github.com/rhhen122/WikispaceVIMP.git
