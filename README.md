@@ -15,6 +15,11 @@ Windows/Linux
 cd ~; cd documents; git clone https://github.com/rhhen122/WikispaceVIMP.git; cd ~
 ```
 
+gh (if configured)
+```
+gh repo clone rhhen122/WikispaceVIMP
+```
+
 This Is WikiEdit!         And This is the README Explaining how to use it!
 
 ESTMATED TIME OF READING: 3:30 MIN
