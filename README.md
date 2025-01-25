@@ -5,13 +5,13 @@
 ## Install!
 MacOS
 ```
-cd ~ && cd documents && git clone https://github.com/rhhen122/Wikispace.git && cd ~
+cd ~ && cd documents && git clone https://github.com/rhhen122/WikispaceVIMP.git && cd ~
 ```
 
 
 Windows/Linux
 ```
-cd ~; cd documents; git clone https://github.com/rhhen122/Wikispace.git; cd ~
+cd ~; cd documents; git clone https://github.com/rhhen122/WikispaceVIMP.git; cd ~
 ```
 
 This Is WikiEdit!         And This is the README Explaining how to use it!
