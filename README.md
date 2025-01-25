@@ -27,7 +27,7 @@ Next! go to "dashboard" and open "index.html"!
 
 Then, Download VS Code [text](https://code.visualstudio.com
 
-The Begineer Level tags (For user unfimiliar with .HTML and .CSS) are tags like <h1> <h2> <h3> and, <p>
+The Begineer Level tags (For user unfimiliar with .HTML and .CSS) are tags like &lt;h1> &lt;h2> &lt;h3> and, &lt;p>
 
 You may notice tags that look like this --> &lt;!-- This is a COMMENT tag! Its a place to put text that you dont want showing up on your WikiSpace! -->
 
