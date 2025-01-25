@@ -5,7 +5,7 @@
 ## Install!
 ### WikispaceVIMP will appear in whatever folder you are currently inside
 ```
-curl -O https://github.com/rhhen122/WikispaceVIMP/tree/main/WikispaceVIMP
+[curl -O https://github.com/rhhen122/WikispaceVIMP/tree/main/WikispaceVIMP](https://github.com/rhhen122/WikispaceVIMP.git)
 ```
 gh (no .tar.gz file needed)
 ```
