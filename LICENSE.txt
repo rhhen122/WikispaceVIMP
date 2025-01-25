@@ -1,0 +1,3 @@
+Wikispace is maintained by Roky Edward Iven Henderson (aka citrusdev) and is operated under VIMP (Visual Interface Maker Productive)
+Wikispace is useable by all.
+Wikispace uses Github® to host its files and Source code.
