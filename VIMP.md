@@ -5,3 +5,4 @@ VIMP is non profit and is looking to on-board more programmers! All programmers 
 # VIMP's MISSION
 ## VIMP has a mission! all free software open source!
 VIMP loves open-source software SOO MUCH that they make it themselves!
+We want to make all free software open-source so that you dont have to pay to not have your info stolen!
