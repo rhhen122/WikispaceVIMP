@@ -6,7 +6,7 @@
 ### WikispaceVIMP will appear in whatever folder you are currently inside
 wget
 ```
-wget 
+wget https://github.com/rhhen122/WikispaceVIMP/blob/main/WikispaceVIMP.zip
 ```
 git
 ```
