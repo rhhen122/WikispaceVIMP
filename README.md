@@ -1,9 +1,6 @@
 # Wikispace
-![Static Badge](https://badgen.net/#static/Download/Wikispace/blue?icon=github)
-![Static Badge](https://img.shields.io/badge/Download-Wikispace-red)
-![Static Badge](https://img.shields.io/badge/Wikispace%20-Based-green)
-![Static Badge](https://img.shields.io/badge/Open_Source-red)
-![Static Badge](https://img.shields.io/badge/status%20-maintained-green)
+<a href="https://github.com/rhhen122/WikispaceVIMP" ><img src="https://badgen.net/static/Download/Wikispace/blue?icon=github"></a>
+<img src="https://badgen.net/static/Wikispace/Uses%20GIT/red?icon=git">
 ## Install!
 ### WikispaceVIMP will appear in whatever folder you are currently inside
 install to documents folder
