@@ -1,5 +1,4 @@
 # Wikispace
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 ![Static Badge](https://img.shields.io/badge/Download-Wikispace-red)
 ![Static Badge](https://img.shields.io/badge/Wikispace%20-Based-green)
 ![Static Badge](https://img.shields.io/badge/Open_Source-red)
