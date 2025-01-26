@@ -6,7 +6,7 @@
 ### WikispaceVIMP will appear in whatever folder you are currently inside
 install to documents folder
 ```
-cd ~/documents; git clone https://github.com/rhhen122/WikispaceVIMP.git; cd ~
+cd ~/documents; git clone https://github.com/rhhen122/WikispaceVIMP.git ; cd ~
 ```
 git
 ```
