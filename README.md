@@ -1,4 +1,5 @@
 # Wikispace
+![https://badgen.net/static/Download/Wikispace/blue?icon=github](https://github.com/rhhen122/WikispaceVIMP)
 ![Static Badge](https://img.shields.io/badge/Download-Wikispace-red)
 ![Static Badge](https://img.shields.io/badge/Wikispace%20-Based-green)
 ![Static Badge](https://img.shields.io/badge/Open_Source-red)
