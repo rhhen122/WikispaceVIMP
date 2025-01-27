@@ -1,6 +1,7 @@
 # Wikispace
 <a href="https://github.com/rhhen122/WikispaceVIMP" ><img src="https://badgen.net/static/Download/Wikispace/blue?icon=github"></a>
 <img src="https://badgen.net/static/Wikispace/Uses%20GIT/red?icon=git">
+<img src="https://badgen.net/static/Open/Source/purple/?icon=git">
 ## Install!
 ### WikispaceVIMP will appear in whatever folder you are currently inside
 install to documents folder
