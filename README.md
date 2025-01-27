@@ -1,4 +1,4 @@
-# Wikispace
+# Wikispace Beta 1.3
 <a href="https://github.com/rhhen122/WikispaceVIMP" ><img src="https://badgen.net/static/Download/Wikispace/blue?icon=github"></a>
 <img src="https://badgen.net/static/Wikispace/Uses%20GIT/red?icon=git">
 <img src="https://badgen.net/static/Open/Source/purple/?icon=awesome">
