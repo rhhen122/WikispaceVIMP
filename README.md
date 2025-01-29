@@ -3,10 +3,18 @@
 <img src="https://badgen.net/static/Wikispace/Uses%20GIT/red?icon=git">
 <img src="https://badgen.net/static/Open/Source/purple/?icon=awesome">
 ## Install!
-### WikispaceVIMP will appear in whatever folder you are currently inside
-install to documents folder
+### Use a Python script to compile Wikispace?
 ```
-cd ~/documents; git clone https://github.com/rhhen122/WikispaceVIMP.git ; cd ~
+cd ~ ; curl -O https://iamcitrus.neocities.org/wikispace/wikispace-resources/installcompiler.py
+```
+### Then run The Script With this! (Needs latest Version of python to be installed https://www.python.org/ <-- you can download that here!)
+### It also needs the latest version of git! (https://git-scm.com/ <-- git is downloadable here!)
+```
+cd ~ ; python3 installcompiler.py
+```
+## Or Use git!
+```
+cd ~; git clone https://github.com/rhhen122/WikispaceVIMP.git ; cd ~
 ```
 git
 ```
