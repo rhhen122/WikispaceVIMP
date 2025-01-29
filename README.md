@@ -14,19 +14,6 @@ cd ~ ; curl -O https://iamcitrus.neocities.org/wikispace/wikispace-resources/ins
 ```
 cd ~ ; python3 installcompiler.py
 ```
-## Or Use git!
-```
-cd ~; git clone https://github.com/rhhen122/WikispaceVIMP.git ; cd ~
-```
-git
-```
-git clone https://github.com/rhhen122/WikispaceVIMP.git
-```
-gh
-```
-gh repo clone rhhen122/WikispaceVIMP
-```
-
 This Is WikiEdit!         And This is the README Explaining how to use it!
 
 ESTMATED TIME OF READING: 3:30 MIN
