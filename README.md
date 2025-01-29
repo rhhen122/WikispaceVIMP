@@ -4,11 +4,13 @@
 <img src="https://badgen.net/static/Open/Source/purple/?icon=awesome">
 ## Install!
 ### Use a Python script to compile Wikispace?
+### It also needs the latest version of git! (https://git-scm.com/ <-- git is downloadable here!)
+### (Needs latest Version of python to be installed https://www.python.org/ <-- you can download that here!)
+#### 1.
 ```
 cd ~ ; curl -O https://iamcitrus.neocities.org/wikispace/wikispace-resources/installcompiler.py
 ```
-### Then run The Script With this! (Needs latest Version of python to be installed https://www.python.org/ <-- you can download that here!)
-### It also needs the latest version of git! (https://git-scm.com/ <-- git is downloadable here!)
+#### 2.
 ```
 cd ~ ; python3 installcompiler.py
 ```
