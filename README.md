@@ -2,10 +2,13 @@
 <a href="https://github.com/rhhen122/WikispaceVIMP" ><img src="https://badgen.net/static/Download/Wikispace/blue?icon=github"></a>
 <img src="https://badgen.net/static/Wikispace/Uses%20GIT/red?icon=git">
 <img src="https://badgen.net/static/Open/Source/purple/?icon=awesome">
+<img src="https://badgen.net/github/commits/rhhen122/scrap/"><img src="https://github.com/rhhen122/rhhen122/blob/main/.shh/Copium-Twitch.png" height="32">
 ## Install!
-### Use a Python script to compile Wikispace?
-### It also needs the latest version of git! (https://git-scm.com/ <-- git is downloadable here!)
-### (Needs latest Version of python to be installed https://www.python.org/ <-- you can download that here!)
+> [!NOTE]
+> Wikispace Requires a Modern Browser to run CSS and HTML.
+### Use a `Python` script to compile `Wikispace`?
+### It also needs the latest version of `git`! (`https://git-scm.com/` <-- git is downloadable here!)
+### (Needs latest Version of `python` to be installed `https://www.python.org/` <-- you can download that here!)
 #### 1.
 ```
 cd ~ ; curl -O https://iamcitrus.neocities.org/wikispace/wikispace-resources/installcompiler.py
@@ -14,7 +17,7 @@ cd ~ ; curl -O https://iamcitrus.neocities.org/wikispace/wikispace-resources/ins
 ```
 cd ~ ; python3 installcompiler.py
 ```
-This Is WikiEdit!         And This is the README Explaining how to use it!
+This Is `WikiEdit`!         And This is the `README` Explaining how to use it!
 
 ESTMATED TIME OF READING: 3:30 MIN
 
