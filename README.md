@@ -11,6 +11,7 @@
 ## Install!
 > [!NOTE]
 > Wikispace Requires a Modern Browser to run CSS and HTML.
+> Wikispace is also NOT under VIMPPDL Instead its under the BSD-2-Clause License and Is one of the first VIMP repos to do so...
 ### Use a `Python` script to compile `Wikispace`?
 ### It also needs the latest version of `git`! (`https://git-scm.com/` <-- git is downloadable here!)
 ### (Needs latest Version of `python` to be installed `https://www.python.org/` <-- you can download that here!)
