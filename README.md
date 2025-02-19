@@ -8,6 +8,7 @@
 <img src="https://badgen.net/static/Wikispace/Uses%20GIT/red?icon=git">
 <img src="https://badgen.net/static/Open/Source/purple/?icon=awesome">
 <img src="https://badgen.net/github/commits/rhhen122/WikispaceVIMP/"><img src="https://github.com/rhhen122/rhhen122/blob/main/.shh/Copium-Twitch.png" height="32">
+<a href="https://iamcitrus.neocities.org/wikispace/">Official Wikispace Site</a>
 ## Install!
 > [!NOTE]
 > Wikispace Requires a Modern Browser to run CSS and HTML.
