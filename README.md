@@ -1,4 +1,5 @@
 # Wikispace Beta 1.7
+## “Your intuition knows what to write, so get out of the way.” —Ray Bradbury
 > [!UPDATES]
 > 1.7.2 --- UnInstaller added, Updated README, Updated installcompiler
 
