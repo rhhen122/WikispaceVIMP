@@ -1,6 +1,6 @@
 # Wikispace Beta 1.7
 > [!UPDATES]
-> 1.7 --- Updated README
+> 1.7.2 --- UnInstaller added, Updated README, Updated installcompiler
 
 ###
 
