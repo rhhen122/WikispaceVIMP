@@ -1,7 +1,7 @@
 # Wikispace Beta 1.7
 ## “Your intuition knows what to write, so get out of the way.” —Ray Bradbury
 > [!UPDATES]
-> 1.7.4 --- Added Linux.pdf
+> 1.7.7 --- Added and Cofigged .gitignore, Added .github folder
 
 ###
 
@@ -10,6 +10,9 @@
 <img src="https://badgen.net/static/Open/Source/purple/?icon=awesome">
 <img src="https://badgen.net/github/commits/rhhen122/WikispaceVIMP/"><img src="https://github.com/rhhen122/rhhen122/blob/main/.shh/Copium-Twitch.png" height="32">
 <a href="https://iamcitrus.neocities.org/wikispace/">Official Wikispace Site</a>
+> [!NOTE]
+> Wikispace is installed using the `installcompiiler.py` file.
+> The install will soon be compiled into an executble file that you download and run.
 ## Install!
 > [!NOTE]
 > Wikispace Requires a Modern Browser to run CSS and HTML.
