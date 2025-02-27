@@ -1,7 +1,7 @@
-    p { font-family: ; font-size: 0.6cm }
-    h1  { font-family: ; font-size: }
-    h2 { font-family: ; font-size: }
-    h3 { font-family: ; font-size: }
+    p { font-family: Arial; font-size: 0.6cm }
+    h1  { font-family: Arial; font-size: 1cm }
+    h2 { font-family: Arial; font-size: 1cm }
+    h3 { font-family: Arial; font-size: 1cm }
     body { font-family: Arial; text-align: center; background-color: white; color: black; text-align: center; }
     cur { font-family: Cursive; }
     a { color: black; }
