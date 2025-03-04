@@ -1,3 +1,4 @@
 Build a front-end for installcompiler.py
 Compile it with Nuitka
 clean up the CSSCONFIG.css file
+Rewrite Install compiler in GO
