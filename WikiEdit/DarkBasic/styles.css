@@ -30,9 +30,19 @@ over what the site looks like in dark/light mode in the same effing CSS file*/
     body {
       font-family: Arial;
       text-align: center;
-      background-color: linear-gradient(to right, black, white); /* Gradient background */
-      color: white;
+      background: linear-gradient(to top right, black 70%, white 30%);
     }
+
+  nav {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+  }
 
     cur {
       font-family: Cursive;
@@ -123,8 +133,7 @@ over what the site looks like in dark/light mode in the same effing CSS file*/
   body {
       font-family: Arial;
       text-align: center;
-      background-color: linear-gradient(to right, black, white); /* Gradient background */
-      color: black;
+      background: linear-gradient(to top right, white 70%, black 30%);
       text-align: center;
   }
 
