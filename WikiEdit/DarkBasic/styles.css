@@ -125,37 +125,61 @@ over what the site looks like in dark/light mode in the same effing CSS file*/
     border-radius: 12px;
   }
 }
+@media (prefers-color-scheme: light){
 
-@media (prefers-color-scheme: light) {
   p {
     font-family: Arial;
     font-size: 0.6cm;
+    color: black;
   }
 
   h1 {
     font-family: Arial;
     font-size: 1cm;
+    color: black;
   }
 
   h2 {
     font-family: Arial;
     font-size: 1cm;
+    color: black;
   }
 
   h3 {
     font-family: Arial;
     font-size: 1cm;
+    color: black;
   }
 
   body {
     font-family: Arial;
     text-align: center;
-    background: linear-gradient(to top right, white 70%, black 30%);
+    background: rgb(255,255,255);
+    background: -moz-linear-gradient(90deg, rgba(255,255,255,1) 77%, rgba(0,0,0,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(255,255,255,1) 77%, rgba(0,0,0,1) 100%);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 77%, rgba(0,0,0,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#000000",GradientType=1); 
     text-align: center;
+  }
+
+  nav {
+    background: rgb(255,255,255);
+    background: -moz-linear-gradient(90deg, rgba(255,255,255,1) 77%, rgba(0,0,0,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(255,255,255,1) 77%, rgba(0,0,0,1) 100%);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 77%, rgba(0,0,0,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#000000",GradientType=1); 
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
   }
 
   cur {
     font-family: Cursive;
+    color: black;
   }
 
   a {
@@ -173,14 +197,17 @@ over what the site looks like in dark/light mode in the same effing CSS file*/
 
   #l {
     text-align: left;
+    color: black;
   }
 
   #r {
     text-align: right;
+    color: black;
   }
 
   #c {
     text-align: center;
+    color: black;
   }
 
   button {
