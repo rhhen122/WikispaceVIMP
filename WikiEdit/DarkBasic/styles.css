@@ -10,31 +10,43 @@ over what the site looks like in dark/light mode in the same effing CSS file*/
   p {
     font-family: Arial;
     font-size: 0.6cm;
+    color: white;
   }
 
   h1 {
     font-family: Arial;
     font-size: 1cm;
+    color: white;
   }
 
   h2 {
-      font-family: Arial;
-      font-size: 1cm;
+    font-family: Arial;
+    font-size: 1cm;
+    color: white;
   }
 
   h3 {
-      font-family: Arial;
-      font-size: 1cm;
+    font-family: Arial;
+    font-size: 1cm;
+    color: white;
   }
 
-    body {
-      font-family: Arial;
-      text-align: center;
-      background: linear-gradient(to top right, black 70%, white 30%);
-    }
+  body {
+    font-family: Arial;
+    text-align: center;
+    background: rgb(0, 0, 0);
+    background: -moz-linear-gradient(90deg, rgba(0, 0, 0, 1) 79%, rgba(216, 216, 226, 1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(0, 0, 0, 1) 79%, rgba(216, 216, 226, 1) 100%);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 79%, rgba(216, 216, 226, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#d8d8e2", GradientType=1); 
+  }
 
   nav {
-    background-color: black;
+    background: rgb(0, 0, 0);
+    background: -moz-linear-gradient(90deg, rgba(0, 0, 0, 1) 79%, rgba(216, 216, 226, 1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(0, 0, 0, 1) 79%, rgba(216, 216, 226, 1) 100%);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 79%, rgba(216, 216, 226, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#d8d8e2", GradientType=1); 
     color: white;
     text-align: center;
     font-family: Arial;
@@ -44,69 +56,74 @@ over what the site looks like in dark/light mode in the same effing CSS file*/
     z-index: 1000;
   }
 
-    cur {
-      font-family: Cursive;
-    }
+  cur {
+    font-family: Cursive;
+  }
 
-    a {
-      color: white;
-    }
+  a {
+    color: white;
+  }
 
-    bigtext {
-      font-size: 2cm;
-    }
+  bigtext {
+    font-size: 2cm;
+    color: white;
+  }
 
-    breaker {
-      color: black;
-      font-size: 0.001cm;
-    }
+  breaker {
+    color: black;
+    font-size: 0.001cm;
+    color: white;
+  }
 
-    #l {
-      text-align: left;
-    }
+  #l {
+    text-align: left;
+    color: white;
+  }
 
-    #r {
-      text-align: right;
-    }
+  #r {
+    text-align: right;
+    color: white;
+  }
 
-    #c {
-      text-align: center;
-    }
+  #c {
+    text-align: center;
+    color: white;
+  }
 
-    button {
-      background-color: black;
-      border: solid;
-      color: white;
-      padding: 15px 32px;
-      text-align: center;
-      text-decoration: none;
-      display: inline-block;
-      font-size: 16px;
-      margin: 4px 2px;
-      cursor: pointer;
-      border-radius: 12px;
-    }
+  button {
+    background-color: black;
+    border: solid;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+  }
 
-    button:hover {
-      background-color: white;
-      color: black;
-      border-color: grey;
-      transition-duration: 0.4s;
-    }
+  button:hover {
+    background-color: white;
+    color: black;
+    border-color: grey;
+    transition-duration: 0.4s;
+  }
 
-    .bigbutton {
-      background-color: black;
-      border: solid;
-      color: white;
-      padding: 15px 32px;
-      text-align: center;
-      text-decoration: underline;
-      display: inline-block;
-      font-size: 25px;
-      margin: 4px 2px;
-      cursor: pointer;
-      border-radius: 12px;
-    }
+  .bigbutton {
+    background-color: black;
+    border: solid;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: underline;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+  }
 }
 
 @media (prefers-color-scheme: light) {
@@ -116,89 +133,89 @@ over what the site looks like in dark/light mode in the same effing CSS file*/
   }
 
   h1 {
-      font-family: Arial;
-      font-size: 1cm;
+    font-family: Arial;
+    font-size: 1cm;
   }
 
   h2 {
-      font-family: Arial;
-      font-size: 1cm;
+    font-family: Arial;
+    font-size: 1cm;
   }
 
   h3 {
-      font-family: Arial;
-      font-size: 1cm;
+    font-family: Arial;
+    font-size: 1cm;
   }
 
   body {
-      font-family: Arial;
-      text-align: center;
-      background: linear-gradient(to top right, white 70%, black 30%);
-      text-align: center;
+    font-family: Arial;
+    text-align: center;
+    background: linear-gradient(to top right, white 70%, black 30%);
+    text-align: center;
   }
 
   cur {
-      font-family: Cursive;
+    font-family: Cursive;
   }
 
   a {
-      color: black;
+    color: black;
   }
 
   bigtext {
-      font-size: 2cm;
+    font-size: 2cm;
   }
 
   breaker {
-      color: white;
-      font-size: 0.001cm;
+    color: white;
+    font-size: 0.001cm;
   }
 
   #l {
-      text-align: left;
+    text-align: left;
   }
 
   #r {
-      text-align: right;
+    text-align: right;
   }
 
   #c {
-      text-align: center;
+    text-align: center;
   }
 
   button {
-      background-color: white;
-      border: solid;
-      color: black;
-      padding: 15px 32px;
-      text-align: center;
-      text-decoration: none;
-      display: inline-block;
-      font-size: 16px;
-      margin: 4px 2px;
-      cursor: pointer;
-      border-radius: 12px;
+    background-color: white;
+    border: solid;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
   }
 
   button:hover {
-      background-color: black;
-      color: white;
-      transition-duration: 0.4s;
-      border-color: grey;
+    background-color: black;
+    color: white;
+    transition-duration: 0.4s;
+    border-color: grey;
   }
 
   .bigbutton {
-      background-color: white;
-      border: solid;
-      color: black;
-      padding: 15px 32px;
-      text-align: center;
-      text-decoration: underline;
-      display: inline-block;
-      font-size: 25px;
-      margin: 4px 2px;
-      cursor: pointer;
-      border-radius: 12px;
-      border-color: grey;
+    background-color: white;
+    border: solid;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: underline;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    border-color: grey;
   }
 }
